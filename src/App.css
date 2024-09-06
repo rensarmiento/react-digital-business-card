@@ -1,0 +1,20 @@
+#root {
+  max-width: 1280px;
+
+  margin: 1.5rem auto;
+  text-align: center;
+}
+
+
+.content-container {
+  width: 320px;
+  margin: auto;
+  height: 95%;
+  background-color: #1A1B21;
+  border-radius: 7px;
+}
+
+h1, h2, h3, h4 {
+  margin: 0;
+  padding: 0;
+}
